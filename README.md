@@ -2,7 +2,9 @@
 
 [![powered-by-PDe-C.png](https://i.postimg.cc/TwtnTtkG/powered-by-PDe-C.png)](https://postimg.cc/zbRyjFZP)
 
-[![rqgpv.png](https://i.postimg.cc/2yF15FNk/rqgpv.png)](https://postimg.cc/YL0rnFSZ)
+[![rqgpv.png](https://i.postimg.cc/2yF15FNk/rqgpv.png)](https://pascall-random-quote-generator.netlify.app)
+
+Website @[netlify random quote gen](https://pascall-random-quote-generator.netlify.app)
 
 
 ### Keep the motivation when your feeling down.
