@@ -9,7 +9,7 @@
 
 ## Features
 
-- Food recipies :)
+- API calls
 
 ## Tech
   Created with
