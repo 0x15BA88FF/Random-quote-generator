@@ -1,16 +1,18 @@
 var titleEl, authorEl
-var quoteEl = document.getElementById('content')
-var authorEl = document.getElementById('author')
+quoteEl = document.getElementById('content')
+authorEl = document.getElementById('author')
 
-const loadQuote = () => {
+function loadQuote(){
  fetch('https://api.quotable.io/random')
       .then(jsonData => jsonData.json())
       .then(data => response(data))
 
   let response = (data) => {
-    var author = data.author
-    var quote = data.content
+    console.log(data)
+    var author, quote;
+    author = data.author
+    quote = data.content
     
-    quoteEl.innerText = `"${quote}"`
-    authorEl.innerText = `- ${author}`
+    quoteEl.innerText = '"'+quote+'"'
+    authorEl.innerText = "-" + author
 }}
